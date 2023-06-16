@@ -20,7 +20,7 @@ kutoko is built with the following tech stack:
 
 - [express](https://expressjs.com/)
 - [laravel](https://laravel.com/)
-- [flask](https://flask.palletsprojects.com/en/2.0.x/)
+- [fastAPI](https://fastapi.tiangolo.com/)
 - [android](https://developer.android.com/)
 
 language:
@@ -37,7 +37,7 @@ cloud:
 - [cloud compute engine](https://cloud.google.com/compute)
 
 ## Another information
-You can visit our website [here]()
+You can visit our website [here](https://kutoko.id/)
 
 ## Contributors ✨
 
