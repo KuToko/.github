@@ -63,4 +63,4 @@ Thanks goes to these wonderful people
 
 ## Thanks
 thanks to [all-contributors](#contributors-) for the contribution this project and never give up to make this project better <br>
-thanks to [bangkit 2023](https://grow.google/intl/id_id/bangkit/) thank you to rise for guiding and supporting us to be able to complete this project
+thanks to [bangkit 2023](https://grow.google/intl/id_id/bangkit/) have guided and supported us to be able to complete this project
